@@ -1,0 +1,6 @@
+backend/target/
+backend/.gradle/
+.idea/
+*.iml
+evidence_*.png
+.env
